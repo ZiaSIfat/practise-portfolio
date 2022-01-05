@@ -1,0 +1,54 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+    color: black;
+    font-size: larger;
+}
+h1{
+    font: 150px;
+}
+.color{
+    color: thistle;
+}
+.font{
+    
+}
+.flexibility{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 25px%;
+    
+}
+.half-width img{
+    width: 85%;
+}
+.image{
+   background-image: url(images/pngtree-simple-summer-tourism-travel-image_9073.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+.button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(pink, purple);
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 900;
+}
+.padding{
+    padding-left: 30px;
+}
+.box{
+    width: 80%;
+    border: 10px solid;
+    border-color: grey;
+    margin: 20px ;
+    padding: 50px;
+
+}
+#waterfall{
+    width: 500%;
+    margin-left: 10%;
+}
